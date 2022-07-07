@@ -1,0 +1,26 @@
+<annotation>
+  <folder>validate</folder>
+  <filename>IMG_2920.JPG</filename>
+  <path>C:\Users\Domenico\Desktop\progetto_hero\test\train\IMG_2920.JPG</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1600</width>
+    <height>1200</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>coppe</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>658</xmin>
+      <ymin>691</ymin>
+      <xmax>977</xmax>
+      <ymax>1196</ymax>
+    </bndbox>
+  </object>
+</annotation>
